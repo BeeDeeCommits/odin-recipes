@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    padding-left: 50px;
+}
+
+p {
+    color: teal;
+    text-align: left;
+    padding-left: 50px;
+}
+
+body {
+    background-color: black;
+    color: teal;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-family: "Arial Black", serif;
+}
+
+ul {
+    text-align: center;
+}
+
+ul li {
+    text-align: left;
+}
+
+ol li {
+    text-align: left;
+}
